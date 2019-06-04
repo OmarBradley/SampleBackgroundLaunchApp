@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleBackgroundLaunchApp</string>
+    <string name="channel_name">테스팅</string>
+    <string name="channel_description">테스팅1111</string>
+</resources>
